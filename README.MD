@@ -17,10 +17,17 @@
 ## Пример структуры
 
 Пример
+
 lesson_4_debug
+
 ├─ local
+
 │  └─ php_interface
+
 │     └─ init.php
+
 └─ test
+
    └─ log
+
       └─ index.php
