@@ -18,16 +18,27 @@
 
 Пример
 
+```
 lesson_4_debug
 
 ├─ local
-
 │  └─ php_interface
-
 │     └─ init.php
-
 └─ test
-
    └─ log
-
       └─ index.php
+```
+---
+
+## Оформление ДЗ
+
+Разместить структуру директорий homeworks на своём тестовом портале.
+
+Чтобы получилась следующая структура:
+
+```
+/homeworks/
+├── homework1/
+├── homework2/
+├── homework3/
+...
